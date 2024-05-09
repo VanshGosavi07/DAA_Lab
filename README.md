@@ -23,6 +23,10 @@ Welcome to the Algorithm Lab with C++ Repository! This repository houses a compr
 
 9.strassens_matrix_17.cpp: Implements Strassen's matrix multiplication algorithm.
 
+10.Floyd_warshall_17.cpl: Implement floyd warshall Algorithm.
+
+11.Prims_Algorithm_17.cpp: Implement Prims Algorithm for minimum spanning tree.
+
 📘 File Details:
 
 Each file is extensively documented with comments, providing insights into the implementation logic and algorithmic strategies employed. You'll find clear explanations, helpful hints, and code examples to facilitate your learning process.
